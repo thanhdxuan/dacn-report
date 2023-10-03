@@ -9,7 +9,6 @@
     right: 20mm,
   ),
 )
-
 #let m = yaml("/metadata.yml")
 #let fonts = m.at("fonts")
 
@@ -30,4 +29,4 @@
 
 #import "/components/latex.typ"
 #show "LaTeX": latex.LaTeX
-#{ include "contents/00.typ" }
+#{ include "/contents/00.typ" }

@@ -9,5 +9,6 @@
 // #outline(title: "Danh mục chương trình", target: figure.where(kind: raw))
 #pagebreak()
 #{ include "/contents/02-introduce.typ" }
+#{ include "/contents/03-datacollection.typ" }
 #pagebreak()
-#bibliography("/references.bib")
+#bibliography("/ref.bib")
