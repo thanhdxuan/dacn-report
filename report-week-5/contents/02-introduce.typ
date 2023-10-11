@@ -2,4 +2,4 @@
 Báo cáo tuần 5 của nhóm tập trung vào giải quyết những vấn đề theo sự hướng dẫn của GVHD (Thầy Quang), 
 bao gồm:
 - Tìm kiếm dữ liệu tin cậy về chủ đề *_Loan Approval Prediction_* và nghiên cứu, áp dụng những kỹ thuật khai phá dữ liệu lên đó.
-- (_Nhóm đề xuất_) Bước đầu phân tích các yêu cầu chức năng, phi chức năng cho website của bộ công cụ.
+- Bước đầu phân tích các yêu cầu chức năng, phi chức năng, vẽ sơ đồ use-case cho website của bộ công cụ.

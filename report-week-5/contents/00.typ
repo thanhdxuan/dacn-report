@@ -10,5 +10,8 @@
 #pagebreak()
 #{ include "/contents/02-introduce.typ" }
 #{ include "/contents/03-datacollection.typ" }
+#{ include "/contents/04-system-requirements.typ"}
+#{ include "/contents/05-use-case-diagram.typ"}
+#{ include "/contents/06-plan.typ"}
 #pagebreak()
 #bibliography("/ref.bib")
