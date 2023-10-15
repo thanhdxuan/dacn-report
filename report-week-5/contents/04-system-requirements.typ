@@ -34,12 +34,12 @@
   AL05: (
     id: "AL05",
     feature: "View processed loan", 
-    des: "Admin có thể xem lại các đơn hàng mình đã xử lý trong quá khứ. Các thông tin hiển thị bao gồm trạng thái (Accepted/Rejected), thời gian xử lý, kết quả dự đoán của mô hình."
+    des: "Admin có thể xem lại các đơn hàng mình đã xử lý trong quá khứ. Các thông tin hiển thị bao gồm trạng thái (Waiting/Finished/Canceled), thời gian xử lý, kết quả dự đoán của mô hình, và admin có thể quyết định đưa vào để đào tạo mô hình với những đơn đã được chấp nhận và có kết quả trả về."
   ),
   AL06: (
     id: "AL06",
     feature: "Filter loan", 
-    des: "Admin có thể tìm, lọc các đơn dựa trên các tiêu chí khác nhau như: đã xử lý, chưa xử lý, model dự đoán, ..."
+    des: "Admin có thể tìm, lọc các đơn dựa trên các tiêu chí khác nhau như: đã xử lý, chưa xử lý, thời gian tạo đơn ..."
   ),
   AL07: (
     id: "AL07",
