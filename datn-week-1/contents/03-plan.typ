@@ -8,7 +8,7 @@ Về tổng quan, đồ án tốt nghiệp sẽ được thực hiện trong vò
 
   [*Tuần*], [*Kế hoạch thực hiện*],
 
-  [1], [Lên kế hoạch, chỉnh sửa đồ án theo góp ý của hội đồng.],
+  [1], [Lên kế hoạch thực hiện đồ án tốt nghiệp, chỉnh sửa đồ án theo góp ý của hội đồng.],
 
   [2], [Chỉnh sửa đồ án theo góp ý của hội đồng và giảng viên hướng dẫn.],
 
